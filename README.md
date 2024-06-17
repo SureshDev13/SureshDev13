@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Salesforce Development**
 
-- 💬 Ask me about **alesforce Development: Custom applications, process automation, data management.**
+- 💬 Ask me about **Salesforce Development: Custom applications, process automation, data management.**
 
 - 📫 How to reach me **suresh.sfdev01@gmail.com**
 
