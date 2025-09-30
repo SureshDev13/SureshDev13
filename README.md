@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://skillicons.dev/icons?i=git,github,java,linux,mysql,nodejs,notion,postman,pycharm,react,visualstudio,windows,c,cpp)]
+![](https://skillicons.dev/icons?i=java,visualstudio,git,github,postman,mysql,nodejs,pycharm,react,windows,linux,c,cpp,notion)
       
     
 
