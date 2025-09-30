@@ -15,9 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-    <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,java,linux,mysql,nodejs,notion,postman,pycharm,react,visualstudio,windows,c,cpp" />
-        </a>
-      </p>
+[![](https://skillicons.dev/icons?i=git,github,java,linux,mysql,nodejs,notion,postman,pycharm,react,visualstudio,windows,c,cpp)]
+      
+    
 
